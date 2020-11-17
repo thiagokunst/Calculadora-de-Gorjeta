@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="cost_of_service">Custo do Serviço</string>
+    <string name="okay_service">Ok (15%)</string>
+    <string name="good_service">Bom (18%)</string>
+    <string name="amazing_service">Ótimo (20%)</string>
+    <string name="how_was_the_service">Como foi o serviço?</string>
+    <string name="round_up_tip">Arredondar para cima?</string>
+    <string name="tip_amount">Gorjeta: %s</string>
+    <string name="calculate">Calcular</string>
+</resources>
